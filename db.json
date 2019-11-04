@@ -1,4 +1,5 @@
-[
+{
+  "students": [
   {
     "id": 1,
     "name": "Enola Rowe",
@@ -25,4 +26,5 @@
     "age": "16",
     "address": "612 Dayana Stream"
   }
-]
+  ]
+}
