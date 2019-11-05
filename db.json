@@ -37,13 +37,13 @@
     "id": 1,
     "Codigo": "15",
     "Nombre": "Colgate",
-    "Descripcion": "Colgate 200 ml",
+    "Descripcion": "Colgate 200 ml"
   },
     {
     "id": 2,
     "Codigo": "16",
     "Nombre": "Jabon",
-    "Descripcion": "Jabon 500 ml",
+    "Descripcion": "Jabon 500 ml"
   }
     ]
 }
