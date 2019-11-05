@@ -44,6 +44,12 @@
   "Codigo": "16",
   "Nombre": "Jabon",
   "Descripcion": "Jabon 500 ml"
+   },
+     {
+  "id": 3,
+  "Codigo": "17",
+  "Nombre": "Jabon 4",
+  "Descripcion": "Jabon 4 500 ml"
    }
   ]
 }
