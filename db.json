@@ -32,18 +32,18 @@
     "address": "612 Dayana Stream"
   }
   ],
-  "Producto": [
+  "Productos": [
   {
     "id": 1,
     "Codigo": "15",
     "Nombre": "Colgate",
     "Descripcion": "Colgate 200 ml"
   },
-    {
-    "id": 2,
-    "Codigo": "16",
-    "Nombre": "Jabon",
-    "Descripcion": "Jabon 500 ml"
-  }
-    ]
+  {
+  "id": 2,
+  "Codigo": "16",
+  "Nombre": "Jabon",
+  "Descripcion": "Jabon 500 ml"
+   }
+  ]
 }
