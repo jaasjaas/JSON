@@ -50,6 +50,12 @@
   "Codigo": "17",
   "Nombre": "Jabon 4",
   "Descripcion": "Jabon 4 500 ml"
+   },
+     {
+  "id": 4,
+  "Codigo": "18",
+  "Nombre": "Jenny Muñoz",
+  "Descripcion": "Jabon 4 500 ml"
    }
   ]
 }
